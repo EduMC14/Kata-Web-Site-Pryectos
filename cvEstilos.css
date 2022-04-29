@@ -1,4 +1,4 @@
-gitbody {
+body {
     background-color: #f5f7fa;
     padding: 40px;
     font-family: 'Montserrat', sans-serif;
@@ -120,7 +120,7 @@ gitbody {
     line-height: 1.714;
   }
   
-  .skills-list {
+  .skills{
     list-style: none;
     padding-left: 0;
   }
@@ -132,19 +132,19 @@ gitbody {
     font-size: 18px;
   }
   
-  .photo {
+  .imagen-profile {
     width: 370px;
   }
   
-  .photo,
+  .imagen-profile,
   .contacts,
-  .skills,
+  .skills-list,
   .widget {
     margin-bottom: 60px;
   }
   
   .contacts,
-  .skills,
+  .skills-list,
   .widget {
     padding-left: 40px;
   }
